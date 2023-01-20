@@ -10,3 +10,6 @@ Get-AppXPackage -AllUsers |where-object {$.InstallLocation -like "SystemApps"} |
 
 
 RENICIE O SEU PC.
+
+
+VEJA ESSE VIDEO>> https://youtu.be/43mgYNmkEFM
